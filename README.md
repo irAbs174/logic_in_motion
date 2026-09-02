@@ -1,2 +1,4 @@
-# logicin_in_motion
-Python Turtle transforms mathematical concepts into visually beautiful generative art
+# Logic in Motion — YouTube Shorts
+
+Vertical art Shorts for **@Unique_Sources**
+https://www.youtube.com/@Unique_Sources
